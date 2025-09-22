@@ -1,0 +1,1 @@
+a complete, ready-to-run .sql file for a Clinic Booking System relational database in MySQL. It includes a CREATE DATABASE statement, well-structured tables, PKs/FKs, NOT NULL/UNIQUE constraints, examples of One-to-One, One-to-Many and Many-to-Many relationships, plus audit columns.
